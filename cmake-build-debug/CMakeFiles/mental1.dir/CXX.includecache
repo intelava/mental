@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lava/mental1/Node.h
+
+/Users/lava/mental1/dailyGraph.h
+Node.h
+/Users/lava/mental1/Node.h
+fstream
+-
+
+/Users/lava/mental1/main.cpp
+iostream
+-
+fstream
+-
+stdio.h
+-
+dailyGraph.h
+/Users/lava/mental1/dailyGraph.h
+
